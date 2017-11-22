@@ -19,7 +19,7 @@ header h1 span {
    font-weight: 700;
 }
 header h2 {
-   color: #bdc3c7;
+   color: #8397a5;
    font-weight:300;
 }
 /*****************************FORM STYLES*****************************/
@@ -56,7 +56,7 @@ header h2 {
    transition: all .3s ease;
 }
 .task:hover {
-   background: rgba(0, 0, 0, .02);
+   background: rgba(5, 60, 131, 0.11);
    cursor: pointer;
 }
 
